@@ -1,0 +1,8 @@
+.idea/
+.vscode/*
+
+build/
+bulld-*/
+cmake-build-*/
+
+.clangd
