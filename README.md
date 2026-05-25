@@ -2,12 +2,12 @@
 
 ## Build
 
-Clone the respository with:
+Clone the repository with:
 ```
 git clone --recursive https://github.com/Alexelnet/Engine.git
 ```
 
-Inside `Engine` dircetory do:
+Inside `Engine` directory do:
 
 ```
 cmake -S . -B build
@@ -25,7 +25,7 @@ then where 30 represent the number of threads:
 cmake --build build -j 30
 ```
 
-before starting the `OpenGL` executable make sure that you places the `shader` and `assets` folders next it.
+before starting the `OpenGL` executable make sure that you place the `shader` and `assets` folders next it.
 
 like this:
 
